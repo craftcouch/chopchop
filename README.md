@@ -1,4 +1,4 @@
-chopchop
+ChopChop!
 ========
 
 ChopChop! is a jQuery plugin for slicing up images.
