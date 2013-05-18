@@ -16,8 +16,7 @@ $(document).ready(function(){
 	});
 });
 ```
-
-### Or
+or
 ```javascript
 $(document).ready(function(){
 	$('.chopme').chopchop();
